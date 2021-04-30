@@ -1,0 +1,8 @@
+{
+  "glitch": {
+    "projectType": "generated_static"
+  },
+  "scripts": {
+    "start": "pip3 install --user mkdocs && mkdocs build && cd build && python3 -m http.server"
+  }
+}

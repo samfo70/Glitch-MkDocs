@@ -1,0 +1,8 @@
+{
+  "restart": {
+    "include": [
+      "\\.md$"
+    ]
+  },
+  "noSavedEvents": true
+}
